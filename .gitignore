@@ -1,0 +1,6 @@
+my_env/
+my_env/ __pycache__/
+__pycache__/
+report_graph.png
+cron_log.txt
+.DS_Store

@@ -1,0 +1,6 @@
+Service_Name,Success_Rate
+Batch_Jobs,99.5
+Online_Trans,94.0
+DB_Updates,99.8
+File_Transfers,82.0
+MQ_Series,97.0
